@@ -1,0 +1,15 @@
+.container1{
+    border:dashed teal ;
+
+}
+.container2{
+    padding: 20px;
+    margin: 5%;
+    border: solid turquoise;
+}
+#text{
+    font-style: italic;
+    font-weight: bold;
+
+}
+
